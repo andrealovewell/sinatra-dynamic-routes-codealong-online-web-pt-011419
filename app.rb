@@ -19,7 +19,7 @@ class App < Sinatra::Base
   end
 
   get '/multiply'
-  
+
   end
 
 end
